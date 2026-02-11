@@ -8,7 +8,7 @@ using namespace std;
     for (int i = str.length() - 1; i >= 0; i--) {
         result += str[i];
     }
-    return return result;
+    return result;
 }
 
 int main() {
